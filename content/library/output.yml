@@ -1,0 +1,337 @@
+---
+-   id: INT_SEARCH_ORDERS_TABLE_1::CREATED_TIMESTAMP
+    key: c81eefc0903810ade4a620c211ffe95f
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Created Timestamp
+-   id: INT_SEARCH_ORDERS_TABLE_1::UPDATED_TIMESTAMP
+    key: 2f456bf73f699b162c3196d742e840c0
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Updated Timestamp
+-   id: INT_SEARCH_ORDERS_TABLE_1::ORDER_IDENTIFIER
+    key: 934372c3e061e2af0a817ed7a7449b97
+    locale:
+        es: null
+        nl: Bestelling Identifier
+        se: Identificador de pedido
+    name: Order Identifier
+-   id: INT_SEARCH_ORDERS_TABLE_1::ORDER_ID
+    key: 8dd3857cf665ec993675dfa427008164
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Order Id
+-   id: INT_SEARCH_ORDERS_TABLE_1::SUPPLIER_IDENTIFIER
+    key: fa24779a77c53d0e5ee395f6dfc1cc17
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Supplier Identifier
+-   id: INT_SEARCH_ORDERS_TABLE_1::LOCKED_BENEFIT_ORDER_DETAILS_ID
+    key: fc8d6a34f81b3be8825ebc8b2eeae94f
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Locked Benefit Order Details Id
+-   id: INT_SEARCH_ORDERS_TABLE_1::PARENT_BENEFIT_ORDER_ID
+    key: d727d8449172c602fb428770499ca565
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Parent Benefit Order Id
+-   id: INT_SEARCH_ORDERS_TABLE_1::LAST_ACTIVE_DATE_SET_DATE
+    key: e70151b0fdcb7661364b3e191892e3e3
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Last Active Date Set Date
+-   id: INT_SEARCH_ORDERS_TABLE_1::REQUESTED_LAST_ACTIVE_DATE
+    key: 9c5a842a7c6a1e423d23b1a2919cb4d7
+    locale:
+        es: null
+        nl: Laatst actieve datum
+        se: Ultima fecha activa solicitada
+    name: Requested Last Active Date
+-   id: INT_SEARCH_ORDERS_TABLE_1::BENEFIT_ID
+    key: b847dcdef206f15ab84e4103244dabb2
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Benefit Id
+-   id: INT_SEARCH_ORDERS_TABLE_1::USER_ID
+    key: e179f83c783ac8730f633dcda67e9195
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: User Id
+-   id: INT_SEARCH_ORDERS_TABLE_1::CREATED_BY_USER_SESSION_ID
+    key: b065a960f1209f1c7308eff7ad98d972
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Created By User Session Id
+-   id: INT_SEARCH_ORDERS_TABLE_1::COMMITTED_DATE
+    key: 54cc9d3d84cacc303ce29f433b0314e7
+    locale:
+        es: Fecha comprometida
+        nl: Uiteindelijk datum
+        se: null
+    name: Committed Date
+-   id: INT_SEARCH_ORDERS_TABLE_1::COMPANY_ID
+    key: 427d6bc75d0a08428ed23dd8901b0a33
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Company Id
+-   id: INT_SEARCH_ORDERS_TABLE_1::USER_IDENTIFIER
+    key: 2b033772915be299f3f9a95da153416c
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: User Identifier
+-   id: INT_SEARCH_ORDERS_TABLE_1::BENEFIT_NAME
+    key: e87559689d3e4d4e52f740bf93b19c59
+    locale:
+        es: Nombre del beneficio
+        nl: Voordeel
+        se: null
+    name: Benefit Name
+-   id: INT_SEARCH_ORDERS_TABLE_1::BENEFIT_ORDER_DETAILS_ID
+    key: 4a4ba05766e69b63e1856b90c7c9a715
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Benefit Order Details Id
+-   id: INT_SEARCH_ORDERS_TABLE_1::CONTRIBUTION_INCLUDES_VAT
+    key: c487a17600813e701cb260699a5f1fe7
+    locale:
+        es: Aporte Incluye IVA
+        nl: Bijdrage Inclusief BTW
+        se: null
+    name: Contribution Includes Vat
+-   id: INT_SEARCH_ORDERS_TABLE_1::CONTRIBUTION_EXTRA_EMPLOYMENT_TAX
+    key: 85d89e1ad3d4c303d7ae7faca867f1e3
+    locale:
+        es: Contribucion Extra Impuesto sobre Empleo
+        nl: Bijdrage Extra Loonbelasting
+        se: null
+    name: Contribution Extra Employment Tax
+-   id: INT_SEARCH_ORDERS_TABLE_1::CONTRIBUTION_EXTRA_COMPANY_TAX
+    key: 42230f34ebcba15a609c4824cd773ef4
+    locale:
+        es: Contribucion Extra Impuesto de Sociedades
+        nl: Contributie Extra Bedrijfsbelasting
+        se: null
+    name: Contribution Extra Company Tax
+-   id: INT_SEARCH_ORDERS_TABLE_1::EMPLOYER_KEEPS_EMPLOYMENT_TAX
+    key: 86a49dd8e957da28b8eef7481aa78bfb
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Employer Keeps Employment Tax
+-   id: INT_SEARCH_ORDERS_TABLE_1::COMPANY_TAX_FACTOR
+    key: cff6b4301d01bf6383f27c6db7dcddaf
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Company Tax Factor
+-   id: INT_SEARCH_ORDERS_TABLE_1::VAT_FACTOR
+    key: 38aeb7c865b5174b326c14e4f4cd0804
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Vat Factor
+-   id: INT_SEARCH_ORDERS_TABLE_1::BENEFIT_ORDER_ID
+    key: 4325f3f2747dd06950fcee05b45d2c48
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Benefit Order Id
+-   id: INT_SEARCH_ORDERS_TABLE_1::ORDER_DETAILS_CREATED_TIMESTAMP
+    key: 4eda6484611944c1748707e9141a7bfc
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Order Details Created Timestamp
+-   id: INT_SEARCH_ORDERS_TABLE_1::TRIGGER_DATE
+    key: be70ab27265ee39de022695580f016b7
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Trigger Date
+-   id: INT_SEARCH_ORDERS_TABLE_1::FIRST_ORDER
+    key: 3bd052d2ce81c19819bbef500d5db27d
+    locale:
+        es: Primer orden
+        nl: Eerste Bestelling
+        se: null
+    name: First Order
+-   id: INT_SEARCH_ORDERS_TABLE_1::AGGREGATED_SALARY_VALUE_GROSS
+    key: fc205f9ab5abc2de45e81ea437418e37
+    locale:
+        es: Valor salarial agregado bruto
+        nl: Geaggregeerde Bruto Loon Bedrag
+        se: null
+    name: Aggregated Salary Value Gross
+-   id: INT_SEARCH_ORDERS_TABLE_1::AGGREGATED_SALARY_VALUE_NET
+    key: 382844ee15e588d4dfa8776ff32c551b
+    locale:
+        es: Valor salarial agregado neto
+        nl: Geaggregeerde Netto Component Bedrag
+        se: null
+    name: Aggregated Salary Value Net
+-   id: INT_SEARCH_ORDERS_TABLE_1::AGGREGATED_COMPONENT_VALUE
+    key: 8227ca921719a94536ac7c486883e522
+    locale:
+        es: Valor del componente agregado
+        nl: Geaggregeerde Component Bedrag
+        se: null
+    name: Aggregated Component Value
+-   id: INT_SEARCH_ORDERS_TABLE_1::CUSTOMER_ID
+    key: 25423108603ecb21ee47276eb12dd229
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Customer Id
+-   id: INT_SEARCH_ORDERS_TABLE_1::CUSTOMER_NAME
+    key: 2ea989f83006e233627987293f4bde0a
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Customer Name
+-   id: INT_SEARCH_ORDERS_TABLE_1::CUSTOMER_IDENTIFIER
+    key: fbf29aca9d5b8cdebbb116003924a946
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Customer Identifier
+-   id: INT_SEARCH_ORDERS_TABLE_1::CRM_IDENTIFIER
+    key: 21da69ca20031863df753921091077a9
+    locale:
+        es: null
+        nl: null
+        se: null
+    name: Crm Identifier
+-   id: INT_SEARCH_ORDERS_TABLE_1::CUSTOMER_GROUP_ID
+    key: d4287a1ec73e0e037bc1eb790a6629d2
+    locale:
+        es: ID de grupo de clientes
+        nl: Klant Group ID
+        se: null
+    name: Customer Group Id
+-   id: INT_SEARCH_ORDERS_TABLE_1::CUSTOMER_CATEGORY_ID
+    key: 3b94aadc2b68f4a7a4934019315c38b9
+    locale:
+        es: ID de categoria de cliente
+        nl: Klant Categorie ID
+        se: null
+    name: Customer Category Id
+-   id: INT_SEARCH_ORDERS_TABLE_1::CUSTOMER_CATEGORY_NAME
+    key: 8599a6141719b021d50ea672ced799a6
+    locale:
+        es: Nombre de la categoría del cliente
+        nl: Naam klantcategorie
+        se: null
+    name: Customer Category Name
+-   id: Orders
+    key: 7442e29d7d53e549b78d93c46b8cdcfc
+    locale:
+        es: Pedidos
+        nl: Bestellingen
+        se: null
+    name: Orders
+-   id: Unique Users
+    key: 838e2c77a6d638dd1a7d7df441d85da7
+    locale:
+        es: Usuarios unicos or unicas
+        nl: Unieke Gebruikers
+        se: null
+    name: Unique Users
+-   id: Order Date
+    key: 6fbc355a02359656f1e4540d58b784e1
+    locale:
+        es: Fecha de orden
+        nl: Besteldatum
+        se: null
+    name: Order Date
+-   id: Order Status
+    key: bbd3a18e6d45b8331cf8a715f3f0008d
+    locale:
+        es: Estado del pedido
+        nl: Status van bestelling
+        se: null
+    name: Order Status
+-   id: Price
+    key: 3601146c4e948c32b6424d2c0a7f0118
+    locale:
+        es: Precio
+        nl: Prijs
+        se: null
+    name: Price
+-   id: INT_SEARCH_ORDERS_TABLE_1::LAST_ACTIVE_DATE
+    key: d294cdbd4c39d02391f708ffc893f1dc
+    locale:
+        es: Ú]Ultima fecha activa
+        nl: Laatste actieve datum
+        se: null
+    name: Last Active Date
+-   id: INT_SEARCH_ORDERS_TABLE_1::DELIVERED_DATE
+    key: 5bfc27bb665e6cdb7975e01d3473ec89
+    locale:
+        es: Fecha de entrega
+        nl: Lever datum
+        se: null
+    name: Delivered Date
+-   id: Total Price
+    key: f3547ae5e06426d87312eff7dda775aa
+    locale:
+        es: Precio total
+        nl: Totale bedrag
+        se: null
+    name: Total Price
+-   id: Benefits
+    key: e654f7a86a4458b9cd662267e0f29b52
+    locale:
+        es: Beneficios
+        nl: Voordelen
+        se: null
+    name: Benefits
+-   id: First Order Date
+    key: 58395232a1ce9a8f06a7d2cc88fe615e
+    locale:
+        es: Dia del primer pedido
+        nl: Dag van eerste bestelling
+        se: null
+    name: First Order Date
+-   id: Last Order Date
+    key: 518e38420959acfc9184af56746f9d86
+    locale:
+        es: Fecha del ultimo pedido
+        nl: Dag van laatste bestelling
+        se: null
+    name: Last Order Date
